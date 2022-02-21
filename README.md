@@ -1,8 +1,5 @@
-Hello! 
+Hi! 
 
-My name is ``Ilya``. 
-Programming is my Ikigai. 
-
-I began my journey from game development and continue to do so as a hobby!  
+I'm ``Ilya``and I'm interested in anything slightly related to Software :) 
 
 Check out my blog at www.simplycode.co.il.
